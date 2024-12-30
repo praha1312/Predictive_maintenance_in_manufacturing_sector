@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+scipy
+pyarrow
+joblib
+python-dateutil
+six
+setuptools
+wheel
+tensorflow
+time
